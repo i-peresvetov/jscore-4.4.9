@@ -1,1 +1,1 @@
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+![register](https://github.com/i-peresvetov/jscore-4.4.9/blob/main/register.jpg)
